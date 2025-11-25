@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 嘿，你好！👋
 
-<!--
-**leadhc/leadhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 **Liu**，一名热爱技术与创造的开发者 🧠💻  
+正在探索编程、算法、前端和后端开发的世界，也喜欢写写博客、分享知识 💬✨
 
-Here are some ideas to get you started:
+## 🔧 技能栈
+- **编程语言**: JavaScript, TypeScript, Python, Java
+- **前端**:  Vue, HTML/CSS, Tailwind CSS
+- **后端**: Node.js, Express, Spring Boot
+- **数据库**: MySQL, MongoDB
+- **工具**: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ✨ 每一行代码，都是通往未来的脚步。  
+> —— Liu
